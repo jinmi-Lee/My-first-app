@@ -14,3 +14,7 @@ print("This is my first app on streamlit")
 ```python
 print("Hello, world!")
 ```
+
+| Column 1 | Column 2 |
+|----------|----------|
+| Cell A   | Cell B   |
